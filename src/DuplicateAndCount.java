@@ -6,7 +6,7 @@ public class DuplicateAndCount {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		countAndReviewNumbers(new int[] {0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, });
+		countAndReviewNumbers(new int[] {0, 8, 1, 9, 9, 9, 9, 6, 4, 4, 5, 5, });
 		// Output: There are 5 unique numbers: [1, 2, 3, 4, 5]
 	}
 
